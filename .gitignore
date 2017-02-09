@@ -1,20 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @danzbyrd
- Watch 1,943
-  Star 46,146
-  Fork 19,077 github/gitignore
- Code  Pull requests 112  Projects 0  Pulse  Graphs
-Branch: master Find file Copy pathgitignore/Android.gitignore
-e67fbf8  22 days ago
-@msdx msdx Add freeline rules.
-30 contributors @arcresu @tral @friederbluemle @callingshotgun @AdrianVovk @Zarkopafilis @whoshuu @evorion @szpssky @SamWhited @exarus @mquigley @kevinmost @vitorprado @jshou @HIPERCUBE @jschmid @PR3x @izuzak @FionaHagen @linterpreteur @baudm @mrtazz @shiftkey @gbaron @allonhadaya and others
-RawBlameHistory     
-55 lines (40 sloc)  740 Bytes
 # Built application files
 *.apk
 *.ap_
@@ -69,5 +52,3 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
-Contact GitHub API Training Shop Blog About
-© 2017 GitHub, Inc. Terms Privacy Security Status Help
